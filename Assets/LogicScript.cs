@@ -13,14 +13,12 @@ public class LogicScript : MonoBehaviour
    
     public Text scoreText;
     public GameObject gameOverScreen;
-    public AudioSource birdsSFX;
 
     [ContextMenu("Increase Score")]
     public void addScore(int scoreToAdd)
     {
         playScore = playScore + scoreToAdd;
         scoreText.text = playScore.ToString();
-        birdsSFX.Play();
     }
     public void restartGame()
     {
