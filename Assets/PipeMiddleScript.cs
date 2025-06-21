@@ -22,7 +22,7 @@ public class PipeMiddleScript : MonoBehaviour
         {
             logic.addScore(1);
         }
-        
+
     }
-    
+
 }
