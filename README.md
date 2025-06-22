@@ -19,9 +19,9 @@ Clean 2D sprite-based visuals
 
 Smooth bird animation with physics-based movement
 
-🔊 Audio Feedback (optional):
+🔊 Audio Feedback :
 
-Flap and collision sound effects (if added)
+Flap and collision sound effects
 
 📈 Scoring System:
 
@@ -30,9 +30,9 @@ Gain 1 point each time you successfully pass a pipe set.
 High score tracking planned for a future update.
 
 🛠️ Built With
-Unity 2021 or later
+Unity 2023.2.19.f1
 
-C# scripts (BirdScript, PipeSpawnerScript, LogicScript, PipeMiddleScript)
+C# scripts (BirdScript, PipeSpawnerScript, LogicScript, PipeMiddleScript and GameManagerScript)
 
 Git version control
 
